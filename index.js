@@ -2,5 +2,5 @@
 var strings = require('./data/strings.js');
 
 module.exports = function () {
-  return els;
+  return strings;
 };
